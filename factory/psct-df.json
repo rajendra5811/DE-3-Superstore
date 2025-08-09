@@ -1,0 +1,9 @@
+{
+	"name": "psct-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4151b30-f797-4103-b9e4-8f23d81245a9",
+		"tenantId": "b2974348-ec6b-4972-a0fe-bbe779f5cca8"
+	}
+}
